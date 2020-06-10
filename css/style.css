@@ -52,9 +52,8 @@ ul li a:hover{font-weight: 700;  transition: all 0.5s;}
 	.pt-200{padding-top: 200px;}
 	.pt-500{padding-top: 500px;}
 	.muzi{width: 200px; height: 50px;}
-	.bg-back{background-color: #fffdf3;}
 	.bg-main{background: url('../img/main.png');background-size: 100% auto;}
 	.button{width: 280px; height: 50px; border: solid 1px black;
-	text-align: center; line-height: 50px; }
+	text-align: center; line-height: 50px; text-decoration: none;}
 	.img-size{width: 280px; height: 280px;}
-	.cloth-text{font-size: 0.9rem; color: #474747; text-align: center;}
+	.cloth-text{font-size: 0.9rem; color: #474747; text-align: center; }
